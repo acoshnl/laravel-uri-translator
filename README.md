@@ -8,8 +8,6 @@
 [![Code Quality](https://img.shields.io/codacy/grade/ad6fcea152b449d380a187a375d0f7d7/master?style=flat-square)](https://app.codacy.com/gh/codezero-be/laravel-uri-translator)
 [![Total Downloads](https://img.shields.io/packagist/dt/codezero/laravel-uri-translator.svg?style=flat-square)](https://packagist.org/packages/codezero/laravel-uri-translator)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3UQ8V)
-
 This package registers a macro for the Laravel `Translator` class.
 This will allow you to translate individual URI slugs, while ignoring parameter placeholders.
 
